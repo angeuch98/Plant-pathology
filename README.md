@@ -5,5 +5,8 @@ The aim of the project is multi-class classification and architecture review and
 
 ![image](https://github.com/angeuch98/Plant-pathology/assets/122879873/a13c1446-f91d-46f6-a50a-44ea32447061)
 
+![image](https://github.com/angeuch98/Plant-pathology/assets/122879873/96468128-02da-44ff-aa0d-dfa115df9cf1)
+
+
 ### Methodology 
 ![image](https://github.com/angeuch98/Plant-pathology/assets/122879873/f048b07c-eec7-4ce0-9e74-60fbce4ebb30)
